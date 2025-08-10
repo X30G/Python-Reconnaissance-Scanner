@@ -1,7 +1,8 @@
 # Python Reconnaissance Scanner
-Reconnaissance and scanning using nmap through Python
 
-# Smart Recon & Scanning Tool
+---
+
+# Smart Recon & Scanning
 
 ![Platforms: Kali Linux](https://img.shields.io/badge/platforms-Kali%20Linux-blue) ![Category: Pentesting](https://img.shields.io/badge/category-Pentesting-red) ![License: MIT](https://img.shields.io/badge/license-MIT-green) ![Made with Python & Nmap](https://img.shields.io/badge/made_with-Python%20%26%20Nmap-yellowgreen) ![Warning](https://img.shields.io/badge/warning-Authorized%20Testing%20Only-orange)
 
