@@ -3,12 +3,7 @@ Python recon and scanning using nmap
 
 # Smart Recon & Scanning Tool
 
-[![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Pentesting](https://img.shields.io/badge/category-pentesting-red.svg)]()
-[![Made With](https://img.shields.io/badge/made%20with-Nmap-orange.svg)](https://nmap.org/)
-[![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macOS%20%7C%20windows-lightgrey.svg)]()
-[![Warning](https://img.shields.io/badge/warning-Authorized%20Testing%20Only-critical.svg)](#⚠️-disclaimer)
+![Platforms: Kali Linux](https://img.shields.io/badge/platforms-Kali%20Linux-blue) ![Category: Pentesting](https://img.shields.io/badge/category-Pentesting-red) ![License: MIT](https://img.shields.io/badge/license-MIT-green) ![Made with Bash, Python & Nmap](https://img.shields.io/badge/made_with-Bash%2C%20Python%20%26%20Nmap-yellowgreen) ![Warning](https://img.shields.io/badge/warning-Authorized%20Testing%20Only-orange)
 
 ---
 
