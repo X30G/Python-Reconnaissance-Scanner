@@ -1,5 +1,5 @@
-# Python-Reconnaissance-Scanning
-Python recon and scanning using nmap
+# Python Reconnaissance Scanner
+Reconnaissance and scanning using nmap through Python
 
 # Smart Recon & Scanning Tool
 
