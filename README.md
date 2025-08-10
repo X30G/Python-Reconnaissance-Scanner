@@ -45,7 +45,7 @@ The Smart Recon & Scanning Tool:
 ## 💡 Example Usage
 ```Run with verbose output (default)
 python3 python_recon.py <target>
-python3 python_recon.py x.x.x.x
+python3 python_recon.py 192.168.x.x
 
 Run in quiet mode:
 python3 python_recon.py <target> --quiet
@@ -57,13 +57,13 @@ python3 python_recon.py <target> --quiet
 ============================================================
    Smart Recon & Scanning Tool
 ============================================================
-[+] Running Nmap scan on x.x.x.x...
+[+] Running Nmap scan on 192.168.x.x...
 [+] Scan complete! XML: nmap_scan_20250809_143000.xml, TXT: nmap_scan_20250809_143000.txt
-[+] x.x.x.x - http (Apache httpd 2.4.51)
-    [Web] Fetching: http://x.x.x.x:80
+[+] 192.168.x.x - http (Apache httpd 2.4.51)
+    [Web] Fetching: http://192.168.x.x:80
     [Web] Title: Example_Domain.com
     [Web] Meta: description = This is an example website.
-[+] x.x.x.x:22 - ssh (OpenSSH 8.2)
+[+] 192.168.x.x:22 - ssh (OpenSSH 8.2)
     [Banner] SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.3
 [+] Detailed scan saved to: nmap_scan_20250809_143000.txt
 ```
